@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserDataStoreUsingRoomDatabase</string>
+
+    <string name="enter_name">First Name</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="delete_btn">Delete</string>
+    <string name="last_name">Last Name</string>
+    <string name="update">Update</string>
+    <string name="please_add_your_first_name_here">Please add your first name here</string>
+    <string name="please_add_your_last_name_here">Please add your last name here</string>
+    <string name="please_add_your_age_here">Please add your age here</string>
+</resources>
